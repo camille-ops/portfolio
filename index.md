@@ -1,4 +1,4 @@
-# Aspiring Software Engineer
+# Embedded Software
 Hello prospective employers! Please click [this](./another-page.html).
 
 ## Education      
@@ -9,7 +9,7 @@ Bachelor of Science, Electronics Engineering | Polytechnic University of the Phi
 - Provided software support, troubleshooting enterprise applications.
 - Assisted users with Windows environments, Active Directory, and VPN. 
 - Gained experience in IT systems, networks, and database support. 
-- Documented and tracked support tickets for accurate technical reporting.
+- Documented and tracked support tickets in ServiceNow.
 
 ### Capstone Project in College
 **Smart Energy Submeter** (_2023_)      
